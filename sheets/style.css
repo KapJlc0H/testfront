@@ -38,3 +38,16 @@
   background: #fff;
   cursor: zoom-out;
 }
+
+.menu_link{
+    font-size: 18px;
+    line-height: 23px;
+    color: #1F1534;
+    opacity: 0.5;
+    padding-right: 16px;
+    padding-left: 16px;
+}
+.menu_link_active{
+    opacity: 1;
+    font-weight: bold;
+}
