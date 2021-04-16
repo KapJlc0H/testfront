@@ -10,11 +10,12 @@
 <body>
 <div class="wrapper">
 <header class="header">
-    <a href="http://d99902j0.beget.tech/#"><img src="img/logo.jpg" alt="logo"></a>
+    <a href="http://kadyrovmarat.ru/"><img src="img/logo.png" alt="logo"></a>
         <nav class="menu">
-            <a class="menu_link menu_link_active" href="http://d99902j0.beget.tech">Главная</a>
+            <a class="menu_link menu_link_active" href="http://kadyrovmarat.ru/">Главная</a>
             <a class="menu_link" href="sheets/examp.html">Примеры</a>
             <a class="menu_link" href="sheets/photo.html">Хобби</a>
+         <!--  <a class="menu_link" href="sheets/donat.html">Юmoney</a> -->
         </nav>
 </header>
 <section class="top">
@@ -64,8 +65,7 @@
     <img class="image" src="img/trafsec2.jpg" alt="photo">
     <div class="info_content">
         <h3 class="heading heading_left">Что я хочу с таким багажом знаний?</h3>
-        <p class="text">А хочется мне банального, хочу гореть своим делом, заниматься тем, что мне интересно! Изучаю сейчас QA, frontend, немного управления продуктом. Интересно было бы работать в области кино или Gamedev.
-        Люблю изучать!</p>
+        <p class="text">А хочется мне банального, хочу гореть своим делом, заниматься тем, что мне интересно! Интересуюсь на данный момент аналитикой, QA, frontend, немного управления продуктом. Люблю изучать новое!</p>
         <!--<a href="#" class="button">Learn more</a>-->
     </div>
 </section>
@@ -78,6 +78,6 @@
     <img class="image" src="img/trafsec3.jpg" alt="photo">
 </section>
 </div>
-<footer class="footer">На коленке запилено. Все такое. 2020.</footer>
+<footer class="footer">На коленке запилено. Все такое. 2020-2021.</footer>
 </body>
 </html>
